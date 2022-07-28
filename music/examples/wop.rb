@@ -19,3 +19,4 @@ with_fx :wobble, phase: 2 do |w|
       sleep 1
     end
   end
+end
